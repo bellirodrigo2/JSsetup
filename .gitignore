@@ -1,0 +1,4 @@
+node_modules/
+olds/
+build/*
+dist/*

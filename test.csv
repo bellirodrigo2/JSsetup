@@ -1,0 +1,13 @@
+timestamp;operation;isOn
+05/01/2024 01:00;paper;off
+05/01/2024 01:05;stockPump;off
+05/01/2024 01:10;anyDrive;off
+05/01/2024 09:10;anyDrive;on
+05/01/2024 09:25;stockPump;on
+05/01/2024 09:40;paper;on
+06/01/2024 09:40;paper;off
+06/01/2024 10:10;paper;on
+06/01/2024 11:10;paper;off
+06/01/2024 11:40;stockPump;off
+06/01/2024 12:10;stockPump;on
+06/01/2024 13:10;paper;on
